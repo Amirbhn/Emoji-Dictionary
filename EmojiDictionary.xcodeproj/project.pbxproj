@@ -66,6 +66,7 @@
 				DC89D2592614C77F00B292F3 /* EmojiTableTableViewController.swift */,
 				DC89D25F2617B76700B292F3 /* EmojiTableViewCell.swift */,
 				DC89D2632617F81800B292F3 /* AddEditEmojiTableViewController.swift */,
+				DC8F3DB6268F78DA00F5FCF6 /* ScreenShots */,
 				DC89D2562614C5BA00B292F3 /* Emoji.swift */,
 				DC89D2402614C54900B292F3 /* AppDelegate.swift */,
 				DC89D2422614C54900B292F3 /* SceneDelegate.swift */,
@@ -74,6 +75,13 @@
 				DC89D24E2614C54A00B292F3 /* Info.plist */,
 			);
 			path = EmojiDictionary;
+			sourceTree = "<group>";
+		};
+		DC8F3DB6268F78DA00F5FCF6 /* ScreenShots */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ScreenShots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
