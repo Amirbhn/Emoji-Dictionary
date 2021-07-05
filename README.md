@@ -1,6 +1,8 @@
 # Emoji Dictionary
 
 A simple app where you pick an emoji. (project from Apple's course on iTunes, "App Development with Swift")
+iOS - Storyboard - MVC
+
 
 ## Features:
 
